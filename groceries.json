@@ -1,0 +1,19 @@
+{
+  "groceries": [
+    {
+      "id": 1,
+      "title": "Rice",
+      "qty": 2
+    },
+    {
+      "title": "horlicks",
+      "qty": "1",
+      "id": 4
+    },
+    {
+      "title": "dal",
+      "qty": "5",
+      "id": 5
+    }
+  ]
+}
